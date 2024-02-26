@@ -163,4 +163,10 @@ nav a{
 }
 ```
 
+### Output
+
+![image](https://github.com/PSriVarshan/Codsoft_taskno1/assets/114944059/156b7fe6-78a5-4cee-99b4-a2c5febbbab7)
+
+
+
 
