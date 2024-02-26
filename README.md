@@ -23,7 +23,7 @@
 #### Contact details, including email address and a message to encourage subscribing to new offers, are displayed in the bottom right corner.
 
 
-## Dependencies:
+###  Dependencies:
 
 > This HTML file relies on a separate CSS file named "styles.css" for styling the layout and visual elements.
 
