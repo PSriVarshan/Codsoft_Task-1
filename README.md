@@ -2,6 +2,7 @@
 <hr>
 
 <h3 align="center">Web Development </h3>
+
 ### Task no.01
 # Landing page
 ## Code
