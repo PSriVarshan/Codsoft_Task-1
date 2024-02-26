@@ -22,6 +22,8 @@
 ### Contact Information: 
 #### Contact details, including email address and a message to encourage subscribing to new offers, are displayed in the bottom right corner.
 
+<br>
+<br>
 
 ###  Dependencies:
 
