@@ -7,6 +7,8 @@
 # Landing page
 ## Code
 
+### HTML
+
 ```html
 
 <!DOCTYPE html>
@@ -50,6 +52,8 @@
 </html>
 
 ```
+
+### CSS
 
 ```css
 body{
