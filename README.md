@@ -49,21 +49,3 @@ The provided code aligns the image to the right using the align attribute, which
 
 > ⚠️You can always refer the folder attached to this repository for accessing the web page
 
-
-
-### Task no.03
-# Calculator
-
-This is a simple calculator web application that allows users to perform basic arithmetic calculations. The application provides a user-friendly interface with buttons for digits, operators, and functions.
-
-## Features
-* Perform arithmetic calculations such as addition, subtraction, multiplication, and division.
-* Calculate percentages and powers.
-* Clear the input field using the "AC" button.
-* Toggle the sign of the current value with the " * + / - " button.
-* Calculate the result of the expression using the "=" button.
-
-### Output
-
-![image](https://github.com/PSriVarshan/Codsoft_WebDev/assets/114944059/116e6062-ab5d-44c0-9923-01343e21ef5f)
-
