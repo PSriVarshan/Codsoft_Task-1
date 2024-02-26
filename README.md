@@ -1,9 +1,9 @@
 <h1 align="center"> Codsoft </h1> 
 
 
-<h3 align="center">Web Development </h3>
+<h2 align="center">Web Development </h2>
 
-## Task no.01
+### Task no.01
 <br>
 
 # Landing Page
