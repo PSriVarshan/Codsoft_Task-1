@@ -11,28 +11,28 @@
 
 ## Features:
 
-### Responsive Design: 
+### Responsive Design : 
 #### The page uses the viewport meta tag to ensure it adapts to different screen sizes.
-### Navigation: 
+### Navigation : 
 #### A horizontal navigation bar with links to "Home," "About," "Contact Us," and "Support" is included.
-### Hero Section:
+### Hero Section :
 #### The left side features a hero section with a large image (presumably "comp.gif") and a title ("Level Up with Codsoft").
-### Call to Action: 
+### Call to Action : 
 #### A prominent "Join Now" button is present in the hero section.
-### Contact Information: 
+### Contact Information : 
 #### Contact details, including email address and a message to encourage subscribing to new offers, are displayed in the bottom right corner.
 
 <br>
 <br>
 
-###  Dependencies:
+###  Dependencies :
 
 > This HTML file relies on a separate CSS file named "styles.css" for styling the layout and visual elements.
 
 <br>
 <br>
 
-#### Additional Notes:
+#### Additional Notes :
 
 The provided code aligns the image to the right using the align attribute, which is deprecated in HTML5. It's recommended to use it along with the given CSS code.
 
