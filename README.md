@@ -8,6 +8,8 @@
 # Landing Page
 
 ### This HTML file defines a landing page targeted towards web developers.
+<br>
+<br>
 
 ## Features:
 
