@@ -38,6 +38,8 @@
 #### Additional Notes :
 
 The provided code aligns the image to the right using the align attribute, which is deprecated in HTML5. It's recommended to use it along with the given CSS code.
+<br>
+
 
 ## To run the landing page:
 
@@ -54,6 +56,7 @@ The provided code aligns the image to the right using the align attribute, which
 
 ![image](https://github.com/PSriVarshan/Codsoft_taskno1/assets/114944059/156b7fe6-78a5-4cee-99b4-a2c5febbbab7)
 
+<br>
 
 > ⚠️You can always refer the folder attached to this repository for accessing the web page
 
