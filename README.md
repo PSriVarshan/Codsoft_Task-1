@@ -27,6 +27,9 @@
 
 > This HTML file relies on a separate CSS file named "styles.css" for styling the layout and visual elements.
 
+<br>
+<br>
+
 #### Additional Notes:
 
 The provided code aligns the image to the right using the align attribute, which is deprecated in HTML5. It's recommended to use it along with the given CSS code.
@@ -40,12 +43,14 @@ The provided code aligns the image to the right using the align attribute, which
 
 #### 3. Launch the HTML file via prefered Browser
 
+<br>
 
-
-### Output
+## Output
 
 ![image](https://github.com/PSriVarshan/Codsoft_taskno1/assets/114944059/156b7fe6-78a5-4cee-99b4-a2c5febbbab7)
 
 
 > ⚠️You can always refer the folder attached to this repository for accessing the web page
+
+<br>
 
